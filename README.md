@@ -1,9 +1,9 @@
-## Hi there! 👋
+## Hi, I'm Elaine ! 👋
 
 <!--
 **eliu72/eliu72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!-->
 
-I'm Elaine and I’m currently doing a double major in Computer Science and Genetics. As a budding developer, I'm super interested in learning about new technologies and upgrading my own skillset at hackathons and through personal projects.
+I’m currently doing a double major in Computer Science and Genetics. As a budding developer, I'm super interested in learning about new technologies and upgrading my own skillset at hackathons and through personal projects.
 
 ### ✨ My Interests ✨
 💻 Machine learning<br>
