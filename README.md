@@ -5,7 +5,7 @@
 
 I’m currently doing a double major in Computer Science and Genetics. As a budding developer, I'm super interested in learning about new technologies and upgrading my own skillset at hackathons and through personal projects.
 
-### ✨ My Interests ✨
+### My Interests 
 💻 Machine learning<br>
 🌐 JavaScript and Web Development<br>
 🏕️ Summer (and ⛄ Winter!) Camping<br>
@@ -13,6 +13,6 @@ I’m currently doing a double major in Computer Science and Genetics. As a budd
 🥧 Baking <br>
 🔭 Currently working on a machine learning project with the Chronic Coder Academy!
 
-### 📫 Contact Me 📫
+### Contact Me
 Shoot me a message at linkedin.com/in/eliu72/ to get in touch 😊
 
